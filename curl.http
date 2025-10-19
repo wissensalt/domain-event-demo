@@ -1,0 +1,8 @@
+###
+POST http://localhost:8080/lesson
+Content-Type: application/json
+
+{
+  "title": "New Lesson",
+  "content": "This is the content of the new lesson."
+}
